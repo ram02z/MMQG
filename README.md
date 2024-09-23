@@ -1,6 +1,9 @@
 # ALINet
 
-> ALINet utilizes video lectures to generate high-quality questions pertinent to the provided educational content
+The goal of this project is to utilise video lectures to generate high-quality
+questions pertinent to the provided educational content.
+
+It accompanies the paper "Examining the Feasibility of AI-Generated Questions in Educational Settings" submitted to [TAS 2024](https://symposium.tas.ac.uk/2024/).
 
 ## Getting started
 
